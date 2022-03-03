@@ -27,3 +27,5 @@ def artist_params
   params.require(:artist)
 end
 end
+
+#test test test 
